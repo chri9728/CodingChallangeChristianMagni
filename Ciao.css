@@ -1,0 +1,127 @@
+body{
+  background-image: url(../AtomFile/background.jpg);
+  background-size: 100%;
+}
+.Sfondopaco{
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 310px;
+  width: 1100px;
+  height: 850px;
+  text-align: center;
+  background-color: #000000;
+  opacity: 0.7;
+  border-radius: 5
+
+}
+
+.container{
+
+  width: 1000px;
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.logo1{
+  width: 200px;
+}
+
+.titolo{
+  font-size: 32px;
+  width: 1000px;
+  text-align: center;
+  color: rgb(64, 223, 64)
+}
+
+.bottoni{
+  text-align: center;
+  background-color: rgb(64, 223, 64);
+  padding: 15px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.primaselezione{
+  position: relative;
+  display: inline-block;
+  width: 1000px;
+  text-align: left;
+}
+
+.Monopattino1{
+  position: relative;
+  display: inline-block;
+  color: white;
+  font-size: 20px;
+}
+
+.primavia{
+  position: relative;
+  width: 1000px;
+  text-align: left;
+  color: white;
+}
+
+.stato{
+  color: white;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.arancione{
+  background-color: orange;
+  padding: 15px;
+  margin-right: 750px;
+  border-radius: 2px;
+}
+
+.secondaselezione{
+  position: relative;
+  display: inline-block;
+  width: 1000px;
+  text-align: left;
+}
+
+.Monopattino2{
+  position: relative;
+  display: inline-block;
+  color: white;
+  font-size: 20px;
+}
+
+.secondavia{
+  color: white;
+}
+
+.verde{
+background-color: green;
+padding: 15px;
+margin-right: 400px;
+border-radius: 2px;
+}
+
+.terzaselezione{
+  position: relative;
+  display: inline-block;
+  width: 1000px;
+  text-align: left;
+}
+
+.Monopattino3{
+  position: relative;
+  display: inline-block;
+  color: white;
+  font-size: 20px;
+}
+
+.terzavia{
+  color: white;
+}
+
+.rosso{
+  background-color: red;
+  padding: 15px;
+  margin-right: 900px;
+  border-radius: 2px;
+}
